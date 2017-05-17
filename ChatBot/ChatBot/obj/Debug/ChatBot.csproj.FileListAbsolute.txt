@@ -1,0 +1,138 @@
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\csc.exe
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\vbc.exe
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\ChatBot\ChatBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\ChatBot\ChatBot\bin\ChatBot.dll.config
+C:\Projetos\ChatBot\ChatBot\bin\ChatBot.dll
+C:\Projetos\ChatBot\ChatBot\bin\ChatBot.pdb
+C:\Projetos\ChatBot\ChatBot\bin\Autofac.dll
+C:\Projetos\ChatBot\ChatBot\bin\Chronic.dll
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.dll
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.dll
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projetos\ChatBot\ChatBot\bin\Newtonsoft.Json.dll
+C:\Projetos\ChatBot\ChatBot\bin\System.Net.Http.Formatting.dll
+C:\Projetos\ChatBot\ChatBot\bin\System.Web.Http.dll
+C:\Projetos\ChatBot\ChatBot\bin\System.Web.Http.WebHost.dll
+C:\Projetos\ChatBot\ChatBot\bin\Autofac.xml
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.xml
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Projetos\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projetos\ChatBot\ChatBot\bin\Newtonsoft.Json.xml
+C:\Projetos\ChatBot\ChatBot\bin\System.Net.Http.Formatting.xml
+C:\Projetos\ChatBot\ChatBot\bin\System.Web.Http.xml
+C:\Projetos\ChatBot\ChatBot\bin\System.Web.Http.WebHost.xml
+C:\Projetos\ChatBot\ChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projetos\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+C:\Projetos\ChatBot\ChatBot\obj\Debug\ChatBot.dll
+C:\Projetos\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\csc.exe
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\vbc.exe
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ChatBot.dll.config
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ChatBot.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ChatBot.pdb
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Autofac.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Chronic.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Newtonsoft.Json.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Net.Http.Formatting.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Web.Http.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Web.Http.WebHost.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Autofac.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Newtonsoft.Json.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Net.Http.Formatting.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Web.Http.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.Web.Http.WebHost.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\obj\Debug\ChatBot.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Projetos\GitHub\ChatBotSample\ChatBot\ChatBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\obj\Debug\ChatBot.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ChatBot.dll.config
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ChatBot.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ChatBot.pdb
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Autofac.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Chronic.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Newtonsoft.Json.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Web.Http.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Autofac.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\Newtonsoft.Json.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Web.Http.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Marcos Dassie\Downloads\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBotSample-0251a756664069c0acd528f439c168c34fbe143b\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
